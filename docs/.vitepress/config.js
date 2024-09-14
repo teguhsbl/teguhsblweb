@@ -1,36 +1,43 @@
 // .vitepress/config.js
 export default {
-  title: 'Rokuro Inosuke',
-  description: 'Indonesian Content Creator Gaming',
+  title: 'Teguh Sabila',
+  description: 'Personal portofolio website by Teguh Sabila',
 
   themeConfig: {
     logo: "/me.jpg",
-    siteTitle: "Rokuro Inosuke",
+    siteTitle: "Teguh Sabila",
     nav: [
-    { text: "Blog", link: "//blog.rokuro.my.id"},
+    { text: "Blog", link: "//blog.teguhsbl.my.id"},
     { text: "About", link: "/about" },
     { text: "Contact", link: "/contact" },
     ],
     
     socialLinks: [
+    
       {
         icon: {
-          svg: `<img src="/icons8-github-100.png" alt="My Custom Icon" style="width: 32px; height: 32px;" />`
+            svg: `<img src="/icons8-facebook-100.png" alt="My Custom Icon" style="width: 32px; height: 32px;" />`
         },
-        link: 'https://github.com/teguhsbl'
+        link: 'https://fb.me/sabilateguh04'
+      },
+        
+      {
+        icon: {
+            svg: `<img src="/icons8-instagram-100.png" alt="My Custom Icon" style="width: 32px; height: 32px;" />`
+        },
+        link: 'https://instagram.com/sabilateguh04'
       },
       {
         icon: {
-          svg: `<img src="/icons8-tiktok-100.png" alt="My Custom Icon" style="width: 32px; height: 32px;" />`
+             svg: `<img src="/icons8-whatsapp-100.png" alt="My Custom Icon" style="width: 32px; height: 32px;" />`
         },
-        link: 'https://www.tiktok.com/@rokuro.04'
-      }
-
+        link: 'https://wa.me/6289530639515'
+      },
     ],
      
     footer: {
-   message: "This is my personal website, which combines various of my platforms.",
-   copyright: "Copyright © 2024-present Rokuro Inosuke",
+   message: "This is my personal portofolio website to share my project and ideas.",
+   copyright: "Copyright © 2024-present Teguh Sabila",
  },
   },
 }

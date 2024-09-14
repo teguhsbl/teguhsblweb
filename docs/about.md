@@ -1,12 +1,19 @@
----
-layout: doc
----
 # About Me
 
 <div class="custom-layout">
 
-<img align="middle" width="100" src="/me.jpg">
+<img width="200" src="/me.jpg">
 
-<p>Hey there! Being an avid player of video games, I am an Indonesian content creator. I provide entertaining gameplay, strategies, and insider information for playing a variety of well-known games on this media. For all gamers, novice and expert alike, my mission is to produce fun and instructive content. My goal is to offer a more lively, friendly, and competitive gaming experience to everyone, with a community that keeps expanding. Feel free to participate, converse, and exchange gaming tales with others! Welcome to my gaming world, and thanks for your support!</p>
+## About Me Hello!
+Hi there my name is Teguh Sabila, and I’am very much passionate with designing web applications using Vue. Someone that is truly committed to his profession and to the creation of solid and efficient technologies, services and products on the web with a user oriented approach. After developing this conceptual and technical framework, I take charge of designing visually appealing as well as functionalities oriented Websites and Applications.
 
+## Web Design 
+My journey into web design was fueled by a love for creativity and aesthetics. It must have been my wish that design is more than the looks of it because it should enhance the usability and effectively convey your intended message. To the smart interface navigation, I make sure to design and develop the user interface that is friendly, exciting and easy to use. 
+
+
+## Vue. js Development
+As a Vue. In my position as JS developer I employ this novel Javascript framework to build progressive and optimized apps. Vue. via js, i can develop nice and functional UIs of applications without much of a hassle with the help of js. Whether I am coding a simple application that will need an SPA or a large complex system built on components, I ensure that the code is clean, readable to ensure that it can be expanded in the future.
+
+## Let's Connect
+I am always eager to embark on new projects and collaborate with fellow professionals. First time, free consultation if you have a project you need designed or if you just want to talk about new things in web design & development.
 </div>
