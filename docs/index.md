@@ -10,7 +10,7 @@ hero:
   tagline: This is the website for my portfolio, where I share my project and ideas.
   actions:
     - theme: brand
-      text: Get Started
+      text: View Project
       link: /
     - theme: alt
       text: View on GitHub
